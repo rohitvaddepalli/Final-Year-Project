@@ -1,0 +1,8 @@
+numpy
+sounddevice
+scipy
+openai-whisper
+transformers
+torch
+edge-tts
+pygame
