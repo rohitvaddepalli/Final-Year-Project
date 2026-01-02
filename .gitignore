@@ -38,6 +38,7 @@ conversation_history.json
 .idea/
 *.swp
 *.swo
+.gitignore
 
 # OS
 Thumbs.db
