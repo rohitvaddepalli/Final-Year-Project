@@ -22,7 +22,7 @@ An intelligent, real-time system designed to provide emotional support by recogn
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/rohitvaddepalli/Final-Year-Project.git
 cd "Final Project"
 ```
 
